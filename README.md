@@ -1,15 +1,15 @@
 # Hey 👋🏻
 
-My name is Pedro, a student at UFES (Federal University of Espirito Santo). I am currently involved in personal projects related to IoT, Data Science and Computer Networks. I'm trying to feed my repositories with things i've done or tested, gradually.
+I'm Pedro, a Computer Engineer who works in the field of industrial automation with real-time systems solutions and machinery supervision.
 
 
 
 # 🛠  Tech Stack
 
--   💻   Python | Java | C | C++ 
+-   💻   CSharp | .NET Core | WPF 
 -   🐋  Docker | Docker Compose | Docker Hub
--   🛢    MySQL | MongoDB
--   🔧  Git | Markdown
+-   🛢    SQL Server
+-   🔧  Git | SourceTree | Markdown
 
 # 📲 Contacte me
 
